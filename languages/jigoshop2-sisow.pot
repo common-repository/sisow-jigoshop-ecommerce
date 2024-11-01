@@ -1,0 +1,343 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-25 11:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:37
+msgid "getId not implemented."
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:45
+msgid "getTitle not implemented."
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:115
+msgid "Is enabled?"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:122
+msgid "Merchant ID"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:128
+msgid "Merchant Key"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:134
+msgid "Shop ID"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:140
+msgid "Title"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:146
+msgid "Description"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:153
+msgid "Testmode"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:312
+#, php-format
+msgid ""
+"Unfortunately the payment with %s can't be completed at this moment, please "
+"choose a different payment method."
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:314
+#, php-format
+msgid "Error occured while starting payment, please try again. (%s)"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:325
+#, php-format
+msgid "Payment via Sisow %s."
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:351
+msgid "Sisow payment completed"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:358
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:363
+#: src/Jigoshop/Extension/SisowGateway/Methods/AbstractSisow.php:366
+#, php-format
+msgid "Payment %s via Sisow."
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:28
+msgid "Afterpay"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:39
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:39
+msgid "Gender"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:41
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:41
+#: src/Jigoshop/Extension/SisowGateway/Methods/Ideal.php:43
+msgid " -- Please Choose -- "
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:42
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:42
+msgid "Male"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:43
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:43
+msgid "Female"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:50
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:50
+msgid "Birthday"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:54
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:54
+msgid " -- Day -- "
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:62
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:62
+msgid " -- Month -- "
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:63
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:63
+msgid "January"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:64
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:64
+msgid "February"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:65
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:65
+msgid "March"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:66
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:66
+msgid "April"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:67
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:67
+msgid "May"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:68
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:68
+msgid "June"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:69
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:69
+msgid "July"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:70
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:70
+msgid "August"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:71
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:71
+msgid "September"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:72
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:72
+msgid "October"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:73
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:73
+msgid "November"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:74
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:74
+msgid "December"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:80
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:80
+msgid " -- Year -- "
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:92
+msgid "CoC number"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:94
+msgid "(Only required for B2B.)"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:105
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:104
+msgid "Please select your gender!"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Afterpay.php:111
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:110
+msgid "Please verify your birthday!"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Bunq.php:26
+msgid "bunq"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Creditcard.php:26
+msgid "Creditcard"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Eps.php:28
+msgid "EPS"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Eps.php:42
+msgid ""
+"With eps online transfer you pay simply, fast and secure by online banking "
+"of your bank. Your will be redirected to the online banking at your bank "
+"where you authorize the credit transfer with PIN and TAN."
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Eps.php:47
+#: src/Jigoshop/Extension/SisowGateway/Methods/Giropay.php:47
+msgid "Your bank"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Eps.php:49
+#: src/Jigoshop/Extension/SisowGateway/Methods/Giropay.php:49
+msgid "(Search by bank name, bank code, city or bic.)"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Eps.php:59
+#: src/Jigoshop/Extension/SisowGateway/Methods/Giropay.php:59
+msgid "Please enter your bank!"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:28
+msgid "Focum Achteraf Betalen"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:92
+msgid "IBAN"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Focum.php:116
+msgid "Please enter your IBAN"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Giropay.php:28
+msgid "Giropay"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Giropay.php:42
+msgid ""
+"With giropay you pay simply, fast and secure by the online banking of your "
+"participating bank. You will be redirected to the online banking of your "
+"bank where you authorize the credit transfer."
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Homepay.php:26
+msgid "ING Home'Pay"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Ideal.php:28
+msgid "iDEAL"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Ideal.php:41
+msgid "Please, choose your bank."
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Ideal.php:61
+msgid "Please select your bank!"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Idealqr.php:26
+msgid "iDEAL QR"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Maestro.php:26
+msgid "Maestro"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Mistercash.php:26
+msgid "Bancontact"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Overboeking.php:26
+msgid "Banktransfer"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Overboeking.php:33
+msgid "Days"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Overboeking.php:34
+msgid "Days a banktransfer is valid"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Overboeking.php:41
+msgid "Inlcude iDEAL Link"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Paypalec.php:26
+msgid "PayPal"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Sofort.php:26
+msgid "SofortBanking"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Vpay.php:26
+msgid "V PAY"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Vvv.php:26
+msgid "VVV Giftcard"
+msgstr ""
+
+#: src/Jigoshop/Extension/SisowGateway/Methods/Webshop.php:26
+msgid "Webshop Giftcard"
+msgstr ""
+
+#. Name of the plugin
+msgid "Jigoshop Ecommere Sisow Payment Methods"
+msgstr ""
+
+#. Description of the plugin
+msgid "Sisow payment methods for Jigoshop Ecommerce"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/sisow-for-jigoshop/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sisow"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.sisow.nl"
+msgstr ""
